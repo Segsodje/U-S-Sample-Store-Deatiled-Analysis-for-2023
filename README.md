@@ -1,1 +1,1 @@
-# U-S-Sample-Store-Deatiled-Analysis-for-2023
+# U-S-Sample-Store:Detailed-Analysis-for-2023
