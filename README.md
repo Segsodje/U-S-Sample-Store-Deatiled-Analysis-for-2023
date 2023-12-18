@@ -3,6 +3,8 @@ An evaluation of the company's sales performance in 2023 is underway, with a foc
 
 **Key Questions That Need Answers**
 
+Top 10 cities where products are shipped.
+
 Quantity of units sold for each product category
 
 States with the highest number of transaction
