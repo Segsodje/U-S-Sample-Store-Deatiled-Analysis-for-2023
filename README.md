@@ -9,6 +9,8 @@ Quantity of units sold for each product category
 
 States with the highest number of transaction
 
+Top-selling products and those with lower sales.
+
 Total Profits made from each region
 
 Total revenue by each region
