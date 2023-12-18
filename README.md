@@ -22,3 +22,9 @@ Subcategory with the highest sales
 Quantity of goods requested in each category
 
 Discount given to each category
+
+**Results from KPIs **
+ 
+
+ 
+
