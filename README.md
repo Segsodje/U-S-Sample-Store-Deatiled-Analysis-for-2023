@@ -24,7 +24,8 @@ Quantity of goods requested in each category
 Discount given to each category
 
 **Results from KPIs **
- 
+ ![image](https://github.com/Segsodje/U-S-Sample-Store-Deatiled-Analysis-for-2023/assets/154216979/02971ccb-480b-4aec-9f2c-d7ecff0d1f5e)
+
 
  
 
